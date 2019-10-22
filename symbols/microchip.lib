@@ -112,7 +112,7 @@ ENDDEF
 DEF ATtinyx5 U 0 40 Y Y 1 F N
 F0 "U" -250 350 50 H V C CNN
 F1 "ATtinyx5" -150 450 50 H V C CNN
-F2 "package_DIP:DIP-8_W7.62mm" 0 -600 50 H I C CNN
+F2 "" 0 -600 50 H I C CNN
 F3 "https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf" 0 -700 50 H I C CNN
 DRAW
 S -300 300 300 -500 0 1 0 f
