@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RT9080N_SOT23_5
+D 600mA Low-Dropout Adjustable Linear Regulator
+K Low Dropout regulator
+F http://www.richtek.com/assets/product_file/RT9080/DS9080-02.pdf
+$ENDCMP
+#
+$CMP RT9080_1V8_SOT23_5
+D 600mA Low-Dropout Linear Regulator
+K Low Dropout regulator
+F http://www.richtek.com/assets/product_file/RT9080/DS9080-02.pdf
+$ENDCMP
+#
+#End Doc Library

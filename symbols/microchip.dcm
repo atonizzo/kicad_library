@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATtiny1614
+D 8-bit tinyAVR 1-Series Microcontroller in 14-pin SOIC150 package.
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATtiny1614-data-sheet-40001995A.pdf
+$ENDCMP
+#
+$CMP PIC12C5XX
+D 8-Pin, 8-Bit CMOS Microcontroller
+$ENDCMP
+#
+#End Doc Library

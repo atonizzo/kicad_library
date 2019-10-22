@@ -1,0 +1,87 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST1S41_VFDN8
+D 4A step-down switching regulator
+$ENDCMP
+#
+$CMP STEF05
+D Adjustable current eectronic fuse for 5 V line
+F https://www.st.com/resource/en/datasheet/stef05.pdf
+$ENDCMP
+#
+$CMP STEF12
+D Adjustable current electronic fuse for 12 V line
+F https://www.st.com/resource/en/datasheet/stef12.pdf
+$ENDCMP
+#
+$CMP STM32F303RE
+D ST Micro STM32F303RE ARM Cortex-M4 MCU in LQFP64 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32f303re.pdf
+$ENDCMP
+#
+$CMP STM32F334_LQFP32
+D ST Micro STM32F411CC ARM Cortex-M4 MCU in QFN48 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32f411cc.pdf
+$ENDCMP
+#
+$CMP STM32F405RC
+D ST Micro STM32F405RE ARM Cortex-M4 MCU in LQFP64 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32f405rg.pdf
+$ENDCMP
+#
+$CMP STM32F411CC
+D ST Micro STM32F411CC ARM Cortex-M4 MCU in QFN48 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32f411cc.pdf
+$ENDCMP
+#
+$CMP STM32L011_TSSOP14
+D Access line ultra-low-power 32-bit MCU Arm-based Cortex-M0+, up to 16KB Flash, 2KB SRAM, 512B EEPROM, ADC
+F https://www.st.com/resource/en/datasheet/stm32l011d4.pdf
+$ENDCMP
+#
+$CMP STM32L011_TSSOP20
+D Access line ultra-low-power 32-bit MCU Arm-based Cortex-M0+, up to 16KB Flash, 2KB SRAM, 512B EEPROM, ADC
+F https://www.st.com/resource/en/datasheet/stm32l011d4.pdf
+$ENDCMP
+#
+$CMP STM32L021U4
+D ST Micro STM32F303RE ARM Cortex-M4 MCU in LQFP64 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32f303re.pdf
+$ENDCMP
+#
+$CMP STM32L021_UFQFPN32
+D ST Micro STM32F303RE ARM Cortex-M4 MCU in LQFP64 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32f303re.pdf
+$ENDCMP
+#
+$CMP STM32L071CxY_WLCSP49
+D ST Micro STM32F071KxT ARM Cortex-M0 MCU in WLSCP49 Package.
+K STM32 Cortex-M0
+F https://www.st.com/resource/en/datasheet/stm32l071v8.pdf
+$ENDCMP
+#
+$CMP STM32L071KxT
+D ST Micro STM32F071KxT ARM Cortex-M0 MCU in LQFP32 Package.
+K STM32 Cortex-M0
+F https://www.st.com/resource/en/datasheet/stm32l071v8.pdf
+$ENDCMP
+#
+$CMP STM32L452RC
+D ST Micro STM32L452RE ARM Cortex-M4 MCU in LQFP64 Package
+K STM32 Cortex
+F http://www.st.com/resource/en/datasheet/stm32l452re.pdf
+$ENDCMP
+#
+$CMP USBLC6-2SC6
+D Bidirectional ESD Protection Diode, SOT-23-6
+K usb ethernet
+F http://www2.st.com/resource/en/datasheet/CD00050750.pdf$ENDCMP
+$ENDCMP
+#
+#End Doc Library

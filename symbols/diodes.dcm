@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT54JW
+D Surface Mount Schottky Barrier Diode Array
+K Schottky Diode Array
+F https://www.diodes.com/assets/Datasheets/ds30157.pdf
+$ENDCMP
+#
+$CMP BAT54TW
+F https://www.diodes.com/assets/Datasheets/ds30152.pdf
+$ENDCMP
+#
+#End Doc Library

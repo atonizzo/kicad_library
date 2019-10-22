@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX3373_SOT23-8
+D +/-15kV ESD-Protected, 1µA, 16Mbps, Dual/Quad Low-Voltage Level Translator
+F https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf
+$ENDCMP
+#
+$CMP MAX6394
+D High-Accuracy uP Reset Circuit
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA226
+D High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor with I2C Compatible Interface
+$ENDCMP
+#
+$CMP LM7322
+D LM7321x Single and LM7322x Dual Rail-to-Rail Input and Output ±15-V, High-Output Current and Unlimited Capacitive Load Operational Amplifier
+F http://www.ti.com/lit/ds/symlink/lm7321.pdf
+$ENDCMP
+#
+$CMP PCA9306
+D Single-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation and 3-State Outputs
+K Single-Bit Dual-Supply Bus Transceiver Configurable Voltage Translation 3-State Outputs
+F http://www.ti.com/lit/ds/symlink/sn74lvc1t45.pdf
+$ENDCMP
+#
+$CMP TPD2EUSB30
+D 2-Channel ESD Protection for Super-Speed USB 3.0 Interface
+K ESD USB 3.0 protection
+F http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
+$ENDCMP
+#
+$CMP TPS54302
+D 4.5-V to 28-V Input, 3-A Synchronous Step-Down Converter
+K buck step down
+F http://www.ti.com/lit/ds/symlink/tps54302.pdf
+$ENDCMP
+#
+$CMP TXB0104
+D 4-Bit Bidirectional Voltage-level Translator With Automatic Direction Sensing and ±15-kV ESD Protection
+F http://www.ti.com/lit/ds/symlink/txb0104.pdf
+$ENDCMP
+#
+$CMP TXS0101_SOT23_6
+D 1-Bit Bidirectional Level-Shifting, Voltage-Level Translator With Auto-DirectionSensing for Open-Drain and Push-Pull Applications
+K Bidirectional Level Shifting Voltage Translator
+F http://www.ti.com/lit/ds/symlink/txs0101.pdf
+$ENDCMP
+#
+#End Doc Library

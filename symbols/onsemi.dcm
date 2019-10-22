@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD7016
+D ESD Protection Diode, Low Capacitance, USB 3.0
+F http://www.onsemi.com/pub/Collateral/ESD7016-D.PDF
+$ENDCMP
+#
+#End Doc Library

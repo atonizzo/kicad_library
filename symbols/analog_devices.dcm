@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2127K-ADJ
+D 300mA low dropout adjustable linear regulator, shutdown pin, 2.5V-6V input voltage, SOT-23-5 package
+K linear regulator ldo adjustable positive
+F https://www.diodes.com/assets/Datasheets/AP2127.pdf
+$ENDCMP
+#
+$CMP AP2204K-ADJ
+D 150mA low dropout adjustable linear regulator, wide input voltage range, SOT-23-5 package
+K linear regulator ldo adjustable positive
+F https://www.diodes.com/assets/Datasheets/AP2204.pdf
+$ENDCMP
+#
+$CMP LT3082_SOT23_8
+D Adjustable 1.1A Single Resistor Low Dropout Regulator, DFN-8
+K Adjustable 1.1A Low Dropout Regulator
+F http://cds.linear.com/docs/en/datasheet/3080fc.pdf
+$ENDCMP
+#
+$CMP LTC4412
+F https://www.analog.com/media/en/technical-documentation/data-sheets/4412fb.pdf
+$ENDCMP
+#
+#End Doc Library
