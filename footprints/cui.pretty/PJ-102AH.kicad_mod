@@ -1,8 +1,8 @@
-(module CUI_PJ-102[AB]H (layer F.Cu) (tedit 5B21B12F)
-  (fp_text reference CUI-PJ-102A_dc-barrel-jack (at 0 5.08) (layer F.SilkS)
+(module "PJ-102AH" (layer F.Cu) (tedit 5DC46278)
+  (fp_text reference "CUI-PJ-102A_dc-barrel-jack" (at 0 5.4102) (layer F.SilkS)
     (effects (font (size 0.762 0.762) (thickness 0.1524)))
   )
-  (fp_text value VAL** (at 0 0) (layer F.SilkS) hide
+  (fp_text value "VAL**" (at 0 0) (layer F.SilkS) hide
     (effects (font (size 0.762 0.762) (thickness 0.1524)))
   )
   (fp_line (start 3 -10.1) (end 3 0) (layer F.SilkS) (width 0.2032))
@@ -13,10 +13,10 @@
   (fp_line (start 4.5 4.4) (end 4.5 -10.1) (layer F.SilkS) (width 0.2032))
   (fp_line (start 4.5 -10.1) (end -4.5 -10.1) (layer F.SilkS) (width 0.2032))
   (fp_line (start -4.5 -10.1) (end -4.5 4.4) (layer F.SilkS) (width 0.2032))
-  (pad 1 thru_hole circle (at 0 3) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at 0 -3) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-  (pad 3 thru_hole circle (at -4.7 0) (size 2.6 2.6) (drill 1.6) (layers *.Cu *.Mask F.SilkS))
-  (model ${KIMY3DMOD}/cui.3dshapes/PJ-102A.wrl
+  (pad "3" thru_hole roundrect (at -4.7 0) (size 1.6 2.6) (drill oval 1.1 1.8) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (pad "2" thru_hole roundrect (at 0 -3) (size 2.6 1.6) (drill oval 1.8 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (pad "1" thru_hole roundrect (at 0 3) (size 2.6 1.6) (drill oval 1.8 1.1) (layers *.Cu *.Mask) (roundrect_rratio 0.25))
+  (model "${KIMY3DMOD}/cui.3dshapes/PJ-102A.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

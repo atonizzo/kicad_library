@@ -21,6 +21,10 @@ K ESD USB 3.0 protection
 F http://www.ti.com/lit/ds/symlink/tpd2eusb30.pdf
 $ENDCMP
 #
+$CMP TPS3805H33
+F http://www.ti.com/lit/ds/symlink/tps3803.pdf
+$ENDCMP
+#
 $CMP TPS54302
 D 4.5-V to 28-V Input, 3-A Synchronous Step-Down Converter
 K buck step down

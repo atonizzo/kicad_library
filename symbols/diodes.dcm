@@ -10,4 +10,13 @@ $CMP BAT54TW
 F https://www.diodes.com/assets/Datasheets/ds30152.pdf
 $ENDCMP
 #
+$CMP PI3PCIE3212_TQFN20
+D 3.3, PCIe Express 3.0, 2 Channel, 8Gbps, 2:1 Mux/Demux Switch with single Enable
+$ENDCMP
+#
+$CMP PI4ULS5V201_SOT23-6
+D 1-Bit Bi-directional Level Shifter with Automatic Sensing
+F https://www.diodes.com/assets/Datasheets/PI4ULS5V201.pdf
+$ENDCMP
+#
 #End Doc Library

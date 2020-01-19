@@ -42,6 +42,12 @@ K led diode
 F ~
 $ENDCMP
 #
+$CMP LED_Dual_ACAC
+D Dual LED, cathodes on pins 2 and 4
+K LED diode bicolor dual
+F ~
+$ENDCMP
+#
 $CMP Q_NPN_B1C2E3
 D Transistor NPN (general)
 K npn transistor

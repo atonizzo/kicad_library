@@ -1,11 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ST1S41_HSOP8
+D 4A step-down switching regulator with Integrated 95 mΩ and 69 mΩ power MOSFETs
+F https://www.st.com/resource/en/datasheet/st1s41.pdf
+$ENDCMP
+#
 $CMP ST1S41_VFDN8
-D 4A step-down switching regulator
+D 4A step-down switching regulator with Integrated 95 mΩ and 69 mΩ power MOSFETs
+F https://www.st.com/resource/en/datasheet/st1s41.pdf
 $ENDCMP
 #
 $CMP STEF05
-D Adjustable current eectronic fuse for 5 V line
+D Adjustable current electronic fuse for 5 V line with AutoRetry
 F https://www.st.com/resource/en/datasheet/stef05.pdf
 $ENDCMP
 #

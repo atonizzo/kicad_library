@@ -5,4 +5,8 @@ D ESD Protection Diode, Low Capacitance, USB 3.0
 F http://www.onsemi.com/pub/Collateral/ESD7016-D.PDF
 $ENDCMP
 #
+$CMP FXLP34_SC70-5
+D Single Bit Unidirectional Translator
+$ENDCMP
+#
 #End Doc Library

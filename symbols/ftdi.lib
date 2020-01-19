@@ -89,7 +89,12 @@ DEF FT232RL U 0 40 Y Y 1 F N
 F0 "U" -650 900 50 H V L CNN
 F1 "FT232RL" 400 900 50 H V L CNN
 F2 "Housings_SSOP:SSOP-28_5.3x10.2mm_Pitch0.65mm" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
+F3 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 0 0 50 H I C CNN
+F4 "FTDI Chip" 0 -1000 50 H I C CNN "MFG"
+F5 "FT232RL" 0 -1200 50 H I C CNN "MPN"
+F6 "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf" 0 -900 50 H I C CNN "Datasheet"
+F7 "768-1007-1-ND" 0 -1100 50 H I C CNN "Digikey PN"
+F8 "N/A" 0 -1300 50 H I C CNN "Mouser PN"
 $FPLIST
  SSOP*5.3x10.2mm*Pitch0.65mm*
 $ENDFPLIST
