@@ -5,6 +5,11 @@ D +/-15kV ESD-Protected, 1µA, 16Mbps, Dual/Quad Low-Voltage Level Translator
 F https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf
 $ENDCMP
 #
+$CMP MAX5048_SOT23-8
+D 7A Sink/3A Source Current, 8ns,SOT23, MOSFET Driver
+F https://datasheets.maximintegrated.com/en/ds/MAX5048C.pdf
+$ENDCMP
+#
 $CMP MAX6394
 D High-Accuracy uP Reset Circuit
 $ENDCMP
