@@ -50,7 +50,7 @@ $ENDCMP
 #
 $CMP Q_NPN_B1C2E3
 D Transistor NPN (general)
-K npn transistor
+K NPN Transistor
 F ~
 $ENDCMP
 #

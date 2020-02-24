@@ -5,4 +5,8 @@ D  2mm center pin, 5A DC power jack
 F https://www.cuidevices.com/product/resource/pj-102ah.pdf
 $ENDCMP
 #
+$CMP SJ1-3533N
+F https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf
+$ENDCMP
+#
 #End Doc Library

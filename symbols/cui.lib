@@ -7,7 +7,7 @@ DEF PJ-102AH J 0 40 Y N 1 F N
 F0 "J" -100 200 60 H V C CNN
 F1 "PJ-102AH" -100 -200 60 H V C CNN
 F2 "cui:PJ-102AH" -100 100 60 H V C CNN
-F3 "" -100 100 60 H I C CNN
+F3 "https://www.cuidevices.com/product/resource/pj-102ah.pdf" -100 100 60 H I C CNN
 F4 "CUI Devices" 200 -200 50 H I C CNN "MFG"
 F5 "PJ-102AH" 200 -200 50 H I C CNN "MPN"
 F6 "https://www.cui.com/product/resource/digikeypdf/pj-102ah.pdf" 200 -200 50 H I C CNN "Datasheet"
@@ -27,6 +27,32 @@ P 4 0 1 0 0 -100 -125 -100 -150 -50 -175 -100 N
 X POLE 1 200 100 200 L 50 50 1 1 w
 X OUT 2 200 -100 200 L 50 50 1 1 W
 X OUT 3 200 0 200 L 50 50 1 1 W
+ENDDRAW
+ENDDEF
+#
+# SJ1-3533N
+#
+DEF SJ1-3533N J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "SJ1-3533N" 0 -300 50 H V C CNN
+F2 "cui:SJ1-3533N" 0 0 50 H I C CNN
+F3 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 0 0 50 H I C CNN
+F4 "CUI Devices" 200 -200 50 H I C CNN "MFG"
+F5 "PJSJ1-3533NS" 200 -200 50 H I C CNN "MPN"
+F6 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 200 -200 50 H I C CNN "Datasheet"
+F7 "CP1-3533N-ND" 200 -200 50 H I C CNN "Digikey PN"
+F8 "490-SJ1-3533N" 200 -200 50 H I C CNN "Mouser PN"
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+P 3 0 1 0 -350 -50 -350 100 0 100 N
+P 4 0 1 0 0 0 -200 0 -250 -50 -300 0 N
+P 5 0 1 0 -300 -50 -400 -50 -400 -200 -300 -200 -300 -50 N
+P 5 0 1 0 0 -200 -150 -200 -200 -150 -250 -200 -200 -150 N
+X Pin_1 1 150 100 150 L 50 50 1 1 P
+X Pin_2 2 150 0 150 L 50 50 1 1 P
+X Pin_3 3 150 -200 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
