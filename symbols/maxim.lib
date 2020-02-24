@@ -102,7 +102,7 @@ DEF MAX3373_SOT23-8 U 0 40 Y Y 1 F N
 F0 "U" -350 500 50 H V C CNN
 F1 "MAX3373_SOT23-8" -50 400 50 H V R CNN
 F2 "package_TO_SOT_SMD:SOT-23-8" 0 550 50 H I C CNN
-F3 "" 0 550 50 H I C CNN
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf" 0 550 50 H I C CNN
 F4 "Maxim Integrated" 200 -200 50 H I C CNN "MFG"
 F5 "MAX3373EEKA+T" 200 -200 50 H I C CNN "MPN"
 F6 "https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf" 200 -200 50 H I C CNN "Datasheet"
@@ -118,6 +118,29 @@ X VL1 5 -500 100 100 R 50 50 1 1 B
 X TS 6 200 -200 100 L 50 50 1 1 I I
 X VCC 7 200 300 100 L 50 50 1 1 W
 X VCC1 8 200 100 100 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# MAX5048_SOT23-8
+#
+DEF MAX5048_SOT23-8 U? 0 40 Y Y 1 F N
+F0 "U?" 0 450 50 H V C CNN
+F1 "MAX5048_SOT23-8" 0 350 50 H V C CNN
+F2 "package_TO_SOT_SMD:SOT-23-6" 0 -800 50 H I C CNN
+F3 "https://datasheets.maximintegrated.com/en/ds/MAX5048C.pdf" 0 -900 50 H I C CNN
+F4 "Maxim Integrated" 0 -400 50 H I C CNN "MFG"
+F5 "MAX5048CAUT+T" 0 -500 50 H I C CNN "MPN"
+F6 "https://datasheets.maximintegrated.com/en/ds/MAX5048C.pdf" 0 -600 50 H I C CNN "Datasheet"
+F7 "MAX5048CAUT+TCT-ND" 0 -700 50 H I C CNN "Digikey PN"
+F8 "N/A" 0 -1000 50 H I C CNN "Mouser PN"
+DRAW
+S -300 300 300 -350 0 1 10 f
+X N_OUT 1 400 -200 100 L 50 50 1 1 O
+X V+ 1 400 200 100 L 50 50 1 1 W
+X P_OUT 2 400 0 100 L 50 50 1 1 O
+X GND 4 -400 -200 100 R 50 50 1 1 W
+X IN- 5 -400 0 100 R 50 50 1 1 I
+X IN+ 6 -400 200 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
