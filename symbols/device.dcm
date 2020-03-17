@@ -60,6 +60,12 @@ K r res resistor
 F ~
 $ENDCMP
 #
+$CMP R_NOINSTALL
+D Resistor
+K r res resistor
+F ~
+$ENDCMP
+#
 $CMP R_POT
 D Potentiometer
 K resistor variable

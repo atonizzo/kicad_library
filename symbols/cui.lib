@@ -35,13 +35,13 @@ ENDDEF
 DEF SJ1-3533N J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
 F1 "SJ1-3533N" 0 -300 50 H V C CNN
-F2 "cui:SJ1-3533N" 0 0 50 H I C CNN
-F3 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 0 0 50 H I C CNN
-F4 "CUI Devices" 200 -200 50 H I C CNN "MFG"
-F5 "PJSJ1-3533NS" 200 -200 50 H I C CNN "MPN"
-F6 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 200 -200 50 H I C CNN "Datasheet"
-F7 "CP1-3533N-ND" 200 -200 50 H I C CNN "Digikey PN"
-F8 "490-SJ1-3533N" 200 -200 50 H I C CNN "Mouser PN"
+F2 "cui:SJ1-3533N" 0 -800 50 H I C CNN
+F3 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 0 -700 50 H I C CNN
+F4 "CUI Devices" 0 -500 50 H I C CNN "MFG"
+F5 "PJSJ1-3533NS" 0 -900 50 H I C CNN "MPN"
+F6 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 0 -600 50 H I C CNN "Datasheet"
+F7 "CP1-3533N-ND" 0 -1000 50 H I C CNN "Digikey PN"
+F8 "490-SJ1-3533N" 0 -1100 50 H I C CNN "Mouser PN"
 $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST
@@ -50,9 +50,9 @@ P 3 0 1 0 -350 -50 -350 100 0 100 N
 P 4 0 1 0 0 0 -200 0 -250 -50 -300 0 N
 P 5 0 1 0 -300 -50 -400 -50 -400 -200 -300 -200 -300 -50 N
 P 5 0 1 0 0 -200 -150 -200 -200 -150 -250 -200 -200 -150 N
-X Pin_1 1 150 100 150 L 50 50 1 1 P
-X Pin_2 2 150 0 150 L 50 50 1 1 P
-X Pin_3 3 150 -200 150 L 50 50 1 1 P
+X SLEEVE 1 150 100 150 L 50 50 1 1 P
+X TIP 2 150 -200 150 L 50 50 1 1 P
+X RING 3 150 0 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
