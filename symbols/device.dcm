@@ -24,8 +24,14 @@ K quartz ceramic resonator oscillator
 F ~
 $ENDCMP
 #
-$CMP D
-D Diode
+$CMP D_A1K2
+D Generic diode with Anode marked as pin 1 of the footprint and Cathode as pin 2
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_A2K1
+D Generic diode with Anode marked as pin 2 of the footprint and Cathode as pin 1
 K diode
 F ~
 $ENDCMP
