@@ -21,8 +21,8 @@
   (fp_line (start 0.515764 0.363606) (end 0.815764 0.063606) (layer F.Fab) (width 0.1))
   (fp_line (start -0.784236 0.363606) (end 0.515764 0.363606) (layer F.Fab) (width 0.1))
   (fp_line (start 1.7 -0.7) (end 1.7 0.7) (layer F.SilkS) (width 0.12))
-  (pad "2" smd rect (at 0.7875 0) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3d107e6e-f804-4b73-b1bf-de88faf4266b))
-  (pad "1" smd rect (at -0.7875 0) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7b9da94f-d216-4f0f-b3eb-b09014532a50))
+  (pad "2" smd rect (at 0.7875 0) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask"))
+  (pad "1" smd rect (at -0.7875 0) (size 0.875 0.95) (layers "F.Cu" "F.Paste" "F.Mask"))
   (model "${KIMY3DMOD}/diode_SMD/D_0603_1608Metric.wrl"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

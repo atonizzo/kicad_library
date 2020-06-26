@@ -36,6 +36,12 @@ K diode
 F ~
 $ENDCMP
 #
+$CMP Ferrite
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
 $CMP L
 D Inductor
 K inductor choke coil reactor magnetic
