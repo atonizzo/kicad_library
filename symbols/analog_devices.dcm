@@ -22,10 +22,10 @@ $CMP LTC4412
 F https://www.analog.com/media/en/technical-documentation/data-sheets/4412fb.pdf
 $ENDCMP
 #
-#
 $CMP LTC6992_SOT23-6
 D TimerBlox Voltage-Controlled Pulse Width Modulator
 K Programmable PWM
 F http://www.linear.com/docs/29337
 $ENDCMP
+#
 #End Doc Library
