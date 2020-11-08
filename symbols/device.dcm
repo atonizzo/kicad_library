@@ -66,6 +66,18 @@ K NPN Transistor
 F ~
 $ENDCMP
 #
+$CMP Q_NPN_E1B2C3
+D Transistor PNP (general)
+$ENDCMP
+#
+$CMP Q_PMOS_G1S2D3
+D Generic PMOS Transistor
+$ENDCMP
+#
+$CMP Q_PNP_B1E2C3
+D Transistor PNP (general)
+$ENDCMP
+#
 $CMP R
 D Resistor
 K r res resistor
