@@ -10,9 +10,8 @@ F2 "cui:PJ-102AH" 0 -310 60 H V C CNN
 F3 "https://www.cuidevices.com/product/resource/pj-102ah.pdf" 60 -470 60 H I C CNN
 F4 "CUI Devices" 0 -700 50 H I C CNN "MFG"
 F5 "PJ-102AH" 0 -800 50 H I C CNN "MPN"
-F6 "https://www.cui.com/product/resource/digikeypdf/pj-102ah.pdf" 65 -585 50 H I C CNN "Datasheet"
-F7 "CP-102AH-ND" 60 -1005 50 H I C CNN "Digikey PN"
-F8 "490-PJ-102AH" 0 -895 50 H I C CNN "Mouser PN"
+F6 "CP-102AH-ND" 60 -1005 50 H I C CNN "Digikey PN"
+F7 "490-PJ-102AH" 0 -895 50 H I C CNN "Mouser PN"
 DRAW
 A -150 100 25 901 -901 0 1 0 N -150 125 -150 75
 S 0 150 -200 -150 0 1 0 f
@@ -39,9 +38,8 @@ F2 "cui:SJ1-3533N" 0 -800 50 H I C CNN
 F3 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 0 -700 50 H I C CNN
 F4 "CUI Devices" 0 -500 50 H I C CNN "MFG"
 F5 "PJSJ1-3533NS" 0 -900 50 H I C CNN "MPN"
-F6 "https://www.cuidevices.com/product/resource/sj1-353xns-series.pdf" 0 -600 50 H I C CNN "Datasheet"
-F7 "CP1-3533N-ND" 0 -1000 50 H I C CNN "Digikey PN"
-F8 "490-SJ1-3533N" 0 -1100 50 H I C CNN "Mouser PN"
+F6 "CP1-3533N-ND" 0 -1000 50 H I C CNN "Digikey PN"
+F7 "490-SJ1-3533N" 0 -1100 50 H I C CNN "Mouser PN"
 $FPLIST
  Connector*:*_1x??_*
 $ENDFPLIST

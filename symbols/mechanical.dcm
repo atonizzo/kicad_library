@@ -10,4 +10,9 @@ D Mounting Hole with connection
 K mounting hole
 $ENDCMP
 #
+$CMP Pad
+D Pad with connection
+K pad
+$ENDCMP
+#
 #End Doc Library

@@ -19,4 +19,10 @@ D 1-Bit Bi-directional Level Shifter with Automatic Sensing
 F https://www.diodes.com/assets/Datasheets/PI4ULS5V201.pdf
 $ENDCMP
 #
+$CMP ZXCT1110
+D Low Power High-Side Current Monitor
+K Current monitor
+F https://www.diodes.com/assets/Datasheets/ZXCT1107_10.pdf
+$ENDCMP
+#
 #End Doc Library
