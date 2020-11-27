@@ -19,6 +19,11 @@ D 1-Bit Bi-directional Level Shifter with Automatic Sensing
 F https://www.diodes.com/assets/Datasheets/PI4ULS5V201.pdf
 $ENDCMP
 #
+$CMP ZXBM5210_SO8
+D Reversible DC MOtor Drive with Speed Control
+F https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/ic/motor/fan/bd6995fv-e.pdf
+$ENDCMP
+#
 $CMP ZXCT1110
 D Low Power High-Side Current Monitor
 K Current monitor
