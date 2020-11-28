@@ -48,7 +48,7 @@ K inductor choke coil reactor magnetic
 F ~
 $ENDCMP
 #
-$CMP LED
+$CMP LED_A1K2
 D LED generic
 K led diode
 F ~
