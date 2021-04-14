@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 9B90-0000A
+D Low profile to full profile PCIe adaptor bracket
+F http://www.bracket.com/downloads/brackets/pdf/9B900000A.pdf
+$ENDCMP
+#
 #End Doc Library

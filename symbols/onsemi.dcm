@@ -9,6 +9,10 @@ $CMP FXLP34_SC70-5
 D Single Bit Unidirectional Translator
 $ENDCMP
 #
+$CMP NC7SZ14P5X_SC70-5
+D TinyLogic UHS Inverter with Schmitt Trigger Input
+$ENDCMP
+#
 $CMP NVMTS0D6N04C
 D SingleN-Channel Power Mosfet 40 V, 0.48 mOhm, 533 A
 F https://www.onsemi.com/pub/Collateral/NVMTS0D6N04C-D.PDF

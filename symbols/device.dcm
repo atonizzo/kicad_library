@@ -30,6 +30,12 @@ K diode
 F ~
 $ENDCMP
 #
+$CMP D_A1K3
+D Generic diode with Anode marked as pin 1 of the footprint and Cathode as pin 3. Typically found on SOT23-3 packages with pin 2 as NC.
+K diode
+F ~
+$ENDCMP
+#
 $CMP D_A2K1
 D Generic diode with Anode marked as pin 2 of the footprint and Cathode as pin 1
 K diode
@@ -93,6 +99,12 @@ $ENDCMP
 $CMP R_POT
 D Potentiometer
 K resistor variable
+F ~
+$ENDCMP
+#
+$CMP R_Shunt
+D 4 Teminale Shunt resistor
+K R res shunt resistor
 F ~
 $ENDCMP
 #

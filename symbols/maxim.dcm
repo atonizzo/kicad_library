@@ -1,5 +1,20 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MAX11152
+D 18 Bit, 500ksps +5V Unipolar Input, SAR ADC with external reference in 10-Pin uMAX package.
+F https://datasheets.maximintegrated.com/en/ds/MAX11152.pdf
+$ENDCMP
+#
+$CMP MAX11162
+D 16 Bit, 500ksps +5V Unipolar Input, SAR ADC with external reference in 10-Pin uMAX package.
+F https://datasheets.maximintegrated.com/en/ds/MAX11162.pdf
+$ENDCMP
+#
+$CMP MAX11262
+D 14 Bit, 500ksps +5V Unipolar Input, SAR ADC with external reference in 10-Pin uMAX package.
+F https://datasheets.maximintegrated.com/en/ds/MAX11262.pdf
+$ENDCMP
+#
 $CMP MAX14933_SON16
 D Two-Channel, 2.75kVRMS I2C Isolator
 F https://datasheets.maximintegrated.com/en/ds/MAX14933.pdf
@@ -15,8 +30,23 @@ D 7A Sink/3A Source Current, 8ns,SOT23, MOSFET Driver
 F https://datasheets.maximintegrated.com/en/ds/MAX5048C.pdf
 $ENDCMP
 #
+$CMP MAX6072
+D High-Precision, Dual-Output Series Voltage Reference
+F https://datasheets.maximintegrated.com/en/ds/MAX6072.pdf
+$ENDCMP
+#
 $CMP MAX6394
 D High-Accuracy uP Reset Circuit
+$ENDCMP
+#
+$CMP MAX9632
+D 36V, Precision, Low-Noise, Wide-Band Amplifier
+F https://datasheets.maximintegrated.com/en/ds/MAX9632.pdf
+$ENDCMP
+#
+$CMP MAX9923
+D Ultra-Precision, High-Side, Current-Sense Amplifier with Adjustable Gain in 10-Pin uMAX package.
+F https://datasheets.maximintegrated.com/en/ds/MAX9922-MAX9923.pdf
 $ENDCMP
 #
 #End Doc Library
