@@ -2,12 +2,13 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP INA181_SOT23-6
 D Bidirectional, Low- and High-Side Voltage Output,
-F https://www.ti.com/lit/pdf/sbos793
+F https://www.ti.com/lit/ds/symlink/ina181.pdf
 $ENDCMP
 #
-$CMP INA226
-D High-Sideor Low-SideMeasurement,Bi-DirectionalCurrentand PowerMonitorwith I2C CompatibleInterface
-F https://www.ti.com/lit/gpn/INA226-Q1
+$CMP INA226_VSSOP10
+D High-Side or Low-Side Measurement, Bi-Directional, Current and Power Monitor with I2C Compatible Interface
+K power monitor
+F https://www.ti.com/lit/ds/symlink/ina226.pdf
 $ENDCMP
 #
 $CMP LM317_SOT223
@@ -22,15 +23,31 @@ $ENDCMP
 #
 $CMP LM386
 D 700-mW, mono, 5- to 18-V, analog input Class-AB audio amplifier
-F https://www.ti.com/lit/gpn/lm386
+F https://www.ti.com/lit/ds/symlink/lm386.pdf
+$ENDCMP
+#
+$CMP MAX232_TSSOP16
+D Dual RS-232 Driver and Receiver with IEC61000-4-2 Protection
+F https://www.ti.com/lit/ds/symlink/max232e.pdf
+$ENDCMP
+#
+$CMP MAX3221_TSSOP16
+F https://www.ti.com/lit/ds/symlink/max3221.pdf
+$ENDCMP
+#
+$CMP TPS3805H33
+D Dual-voltage Detector
+F https://www.ti.com/lit/ds/symlink/tps3805h33.pdf
 $ENDCMP
 #
 $CMP TXB0104
 D 4-Bit Bidirectional Level-Shifting, Voltage-Level Translator With Auto-DirectionSensing for Open-Drain and Push-Pull Applications
+F http://www.ti.com/lit/ds/symlink/txs0104.pdf
 $ENDCMP
 #
 $CMP TXB0108
 D 8-Bit Bidirectional Level-Shifting, Voltage-Level Translator With Auto-DirectionSensing for Open-Drain and Push-Pull Applications
+F http://www.ti.com/lit/ds/symlink/txs0108.pdf
 $ENDCMP
 #
 $CMP TXS0101_SOT23-6

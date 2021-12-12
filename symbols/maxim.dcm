@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADM232A
+D High-Speed, 5 V, 0.1 uV CMOS RS-232 Drivers/Receivers
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM222_232A_242.pdf
+$ENDCMP
+#
+$CMP ICL3232
+D One Microamp Supply-Current, +3V to +5.5V, 250kbps, RS-232 Transmitters/Receivers
+F https://www.renesas.com/us/en/document/dst/icl3221-icl3222-icl3223-icl3232-icl3241-icl3243-datasheet?r=531386
+$ENDCMP
+#
 $CMP MAX11152
 D 18 Bit, 500ksps +5V Unipolar Input, SAR ADC with external reference in 10-Pin uMAX package.
 F https://datasheets.maximintegrated.com/en/ds/MAX11152.pdf
@@ -20,6 +30,29 @@ D Two-Channel, 2.75kVRMS I2C Isolator
 F https://datasheets.maximintegrated.com/en/ds/MAX14933.pdf
 $ENDCMP
 #
+$CMP MAX202
+F https://www.ti.com/lit/ds/symlink/max202.pdf
+$ENDCMP
+#
+$CMP MAX232
+D Dual EIA-232 Drivers/Receivers
+F https://www.ti.com/lit/ds/symlink/max232.pdf
+$ENDCMP
+#
+$CMP MAX3180
+D +3V to +5.5V, 1.5Mbps RS-232 Receivers in SOT23-5
+F https://pdfserv.maximintegrated.com/en/ds/MAX3180-MAX3183.pdf
+$ENDCMP
+#
+$CMP MAX3232
+F https://www.ti.com/lit/ds/symlink/max3232.pdf
+$ENDCMP
+#
+$CMP MAX3370
+D 1µA, 2Mbps, Low-Voltage Level Translators in SC70 and µDFN
+F https://datasheets.maximintegrated.com/en/ds/MAX3370-MAX3371.pdf
+$ENDCMP
+#
 $CMP MAX3373_SOT23-8
 D +/-15kV ESD-Protected, 1µA, 16Mbps, Dual/Quad Low-Voltage Level Translator
 F https://datasheets.maximintegrated.com/en/ds/MAX3372E-MAX3393E.pdf
@@ -37,6 +70,7 @@ $ENDCMP
 #
 $CMP MAX6394
 D High-Accuracy uP Reset Circuit
+F https://datasheets.maximintegrated.com/en/ds/MAX6394.pdf
 $ENDCMP
 #
 $CMP MAX9632

@@ -30,8 +30,14 @@ $CMP PIC12C5XX
 D 8-Pin, 8-Bit CMOS Microcontroller
 $ENDCMP
 #
-$CMP PIC14LF1455_SOIC14
-D 8-Pin, 8-Bit CMOS Microcontroller
+$CMP PIC16F1455_TSSOP14
+D 14-Pin, 8-Bit Flash USB Microcontroller with XLP Technology
+F https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF1454-5-9-14-20-Pin-8-Bit-Flash-USB-Microcontroller-with-XLP-Technology-DS40001639C.pdf
+$ENDCMP
+#
+$CMP PIC16LF1455_TSSOP14
+D 14-Pin, 8-Bit Flash USB Microcontroller with XLP Technology
+F https://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF1454-5-9-14-20-Pin-8-Bit-Flash-USB-Microcontroller-with-XLP-Technology-DS40001639C.pdf
 $ENDCMP
 #
 #End Doc Library
