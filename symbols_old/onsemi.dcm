@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESD7016
+D ESD Protection Diode, Low Capacitance, USB 3.0
+F http://www.onsemi.com/pub/Collateral/ESD7016-D.PDF
+$ENDCMP
+#
+$CMP FOD8163
+D 3.3 V / 5 V, 10 Mbit/sec, Logic Gate Optocoupler in Stretched Body SOP 6-Pin
+F http://www.onsemi.com/pdf/datasheet/fod8163-d.pdf
+$ENDCMP
+#
+$CMP FXLP34_SC70-5
+D Single Bit Unidirectional Translator
+$ENDCMP
+#
+$CMP NC7SZ14P5X_SC70-5
+D TinyLogic UHS Inverter with Schmitt Trigger Input
+F https://www.onsemi.com/pdf/datasheet/nc7sz14-d.pdf
+$ENDCMP
+#
+$CMP NVMTS0D6N04C
+D SingleN-Channel Power Mosfet 40 V, 0.48 mOhm, 533 A
+F https://www.onsemi.com/pub/Collateral/NVMTS0D6N04C-D.PDF
+$ENDCMP
+#
+#End Doc Library

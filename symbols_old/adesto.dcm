@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT25SF081
+D 8-Mbit, SPI Serial Flash Memory with Dual-I/O and Quad-IO Support
+F https://www.dialog-semiconductor.com/sites/default/files/2021-04/DS-AT25SF081-045J-022021.pdf
+$ENDCMP
+#
+#End Doc Library

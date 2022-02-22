@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT63-07W
+D Silicon Schottky Diode
+F http://www.infineon.com/dgdl/bat63series.pdf?folderId=db3a304314dca389011518104e5d0df2&fileId=db3a304314dca38901151817843c0df4
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,43 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2204K_ADJ_SOT23_5
+D 600mA Low-Dropout Adjustable Linear Regulator
+K Low Dropout regulator
+F https://www.diodes.com/assets/Datasheets/products_inactive_data/AP2204.pdf
+$ENDCMP
+#
+$CMP BAT54JW
+D Surface Mount Schottky Barrier Diode Array
+K Schottky Diode Array
+F https://www.diodes.com/assets/Datasheets/ds30157.pdf
+$ENDCMP
+#
+$CMP BAT54TW
+F https://www.diodes.com/assets/Datasheets/ds30152.pdf
+$ENDCMP
+#
+$CMP PI3PCIE3212_TQFN20
+D 3.3, PCIe Express 3.0, 2 Channel, 8Gbps, 2:1 Mux/Demux Switch with single Enable
+$ENDCMP
+#
+$CMP PI4ULS5V201_SOT23-6
+D 1-Bit Bi-directional Level Shifter with Automatic Sensing
+F https://www.diodes.com/assets/Datasheets/PI4ULS5V201.pdf
+$ENDCMP
+#
+$CMP PI4ULS5V202UEX_MSOP-8
+F https://www.diodes.com/assets/Datasheets/PI4ULS5V202.pdf
+$ENDCMP
+#
+$CMP ZXBM5210_SO8
+D Reversible DC MOtor Drive with Speed Control
+F https://d1d2qsbl8m0m72.cloudfront.net/en/products/databook/datasheet/ic/motor/fan/bd6995fv-e.pdf
+$ENDCMP
+#
+$CMP ZXCT1110
+D Low Power High-Side Current Monitor
+K Current monitor
+F https://www.diodes.com/assets/Datasheets/ZXCT1107_10.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP RB550EA
-D Schottky diode
-K diode Schottky
-$ENDCMP
-#
-#End Doc Library

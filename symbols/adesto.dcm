@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AT25SF081
-D 8-Mbit, SPI Serial Flash Memory with Dual-I/O and Quad-IO Support
-$ENDCMP
-#
-#End Doc Library

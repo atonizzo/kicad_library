@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP GRAPHIC
-D This is a meta-symbol that is meant to be associated with graphics in the PCB.
-$ENDCMP
-#
-#End Doc Library

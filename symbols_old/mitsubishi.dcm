@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2SC2166
+F transistors/bipolar/*.*
+$ENDCMP
+#
+#End Doc Library

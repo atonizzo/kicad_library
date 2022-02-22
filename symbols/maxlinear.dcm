@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SP3088
-D Advanced-Failsafe RS-485 / RS-422 Transceivers, 1/8th Unit Load, Slew-Rate Limited, ±15kV ESD-Protected
-F https://assets.maxlinear.com/web/documents/sipex/datasheets/sp3082e_sp3083e_sp3084e_sp3085e_sp3088e.pdf
-$ENDCMP
-#
-#End Doc Library

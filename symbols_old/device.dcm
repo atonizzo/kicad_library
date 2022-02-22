@@ -1,0 +1,111 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Non polarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Polarised capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP Crystal_GND24
+D Four pin crystal (GND on pins 2 and 4), e.g. in SMD package
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP D_A1K2
+D Generic diode with Anode marked as pin 1 of the footprint and Cathode as pin 2
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_A1K3
+D Generic diode with Anode marked as pin 1 of the footprint and Cathode as pin 3. Typically found on SOT23-3 packages with pin 2 as NC.
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_A2K1
+D Generic diode with Anode marked as pin 2 of the footprint and Cathode as pin 1
+K diode
+F ~
+$ENDCMP
+#
+$CMP Ferrite
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP LED_A1K2
+D LED generic
+K led diode
+F ~
+$ENDCMP
+#
+$CMP LED_Dual_ACAC
+D Dual LED, cathodes on pins 2 and 4
+K LED diode bicolor dual
+F ~
+$ENDCMP
+#
+$CMP Q_NPN_B1C2E3
+D Transistor NPN (general)
+K NPN Transistor
+F ~
+$ENDCMP
+#
+$CMP Q_NPN_E1B2C3
+D Transistor PNP (general)
+$ENDCMP
+#
+$CMP Q_PMOS_G1S2D3
+D Generic PMOS Transistor
+$ENDCMP
+#
+$CMP Q_PNP_B1E2C3
+D Transistor PNP (general)
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+F ~
+$ENDCMP
+#
+$CMP R_NOINSTALL
+D Resistor
+K r res resistor
+F ~
+$ENDCMP
+#
+$CMP R_POT
+D Potentiometer
+K resistor variable
+F ~
+$ENDCMP
+#
+$CMP R_Shunt
+D 4 Teminale Shunt resistor
+K R res shunt resistor
+F ~
+$ENDCMP
+#
+#End Doc Library
