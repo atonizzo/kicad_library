@@ -1,4 +1,4 @@
-(kicad_symbol_lib (version 20220102) (generator kicad_symbol_editor)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
   (symbol "PJ-102AH" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at -2.54 5.08 0)
       (effects (font (size 1.524 1.524)))
